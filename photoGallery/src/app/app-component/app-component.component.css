@@ -1,0 +1,33 @@
+#id1,
+#id2 {
+  height: 380px;
+  width: 380px;
+}
+
+
+#id3 {
+  height: 400px;
+  width: 500px;
+}
+
+.top {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 20px;
+}
+
+#id5,
+#id6 {
+  width: 650px;
+  height: 500px;
+}
+
+#id4 {
+  height: 500px;
+  width: 300px;
+}
+
+.bottom {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
